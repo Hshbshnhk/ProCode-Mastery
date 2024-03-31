@@ -28,13 +28,6 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=procode-mastery&show_icons=true&locale=en&layout=compact" alt="procode-mastery" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=procode-mastery&show_icons=true&locale=en" alt="procode-mastery" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=procode-mastery&" alt="procode-mastery" /></p>
-
-
 ![](https://github-readme-stats.vercel.app/api?username=ProCode-Mastery&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ProCode-Mastery&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ProCode-Mastery&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
